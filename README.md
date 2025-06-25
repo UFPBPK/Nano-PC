@@ -64,7 +64,7 @@ This repository contains comprehensive computational models for studying the siz
 
 ### 📊 Comprehensive Sensitivity Analysis Framework
 
-- **`Complete_Sensitivity_Analysis_Framework_May28.R`**
+- **`Complete_Sensitivity_Analysis_Framework_Jun25.R`**
   - **Comprehensive parameter sensitivity analysis** for all NP-PC systems
   - **R6 object-oriented framework** with four specialized analyzer classes:
     - `AgNP_HSA_SensitivityAnalyzer`: Silver-HSA size and zeta potential sensitivity
